@@ -1,2 +1,7 @@
 build_cloud: VLADDEN
 image: Windows
+version: '{branch}-{build}'
+
+dotnet_csproj:
+  patch: true
+  file: 'TGBot\TGBot.csproj'
