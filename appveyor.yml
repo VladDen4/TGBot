@@ -5,3 +5,8 @@ version: '{branch}-{build}'
 dotnet_csproj:
   patch: true
   file: 'TGBot\TGBot.csproj'
+  version: '0.0.{build}'
+
+before_build:
+  - cmd: dotnet --info
+  - cmd: nuget restore -verbosity quiet
