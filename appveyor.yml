@@ -1,5 +1,5 @@
 # build_cloud: VLADDEN
-image: Windows
+image: Visual Studio 2022
 version: '{branch}-{build}'
 
 dotnet_csproj:
