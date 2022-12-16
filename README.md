@@ -3,6 +3,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/vladden4/tgbot/badge)](https://www.codefactor.io/repository/github/vladden4/tgbot)
 [![TelegramBots](https://img.shields.io/badge/Telegram.Bot-v18.0.0-blue.svg?style=flat)](https://telegrambots.github.io/book/)
 [![NetVersion](https://img.shields.io/badge/.NET-6.0-blue.svg?style=flat)](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6)
+[![Build status](https://ci.appveyor.com/api/projects/status/bjc8i0s09ug02c1j?svg=true)](https://ci.appveyor.com/project/VladDen4/tgbot-11gmj)
 
 Here I am developing a telegram bot. Don't ask why...
 
