@@ -1,4 +1,4 @@
-build_cloud: VLADDEN
+# build_cloud: VLADDEN
 image: Windows
 version: '{branch}-{build}'
 
