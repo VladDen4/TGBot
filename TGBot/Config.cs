@@ -11,7 +11,7 @@ namespace TGBot
         /// <summary>
         /// Required field! Contains the bot's access token. You can get it from <see href="https://t.me/BotFather">@BotFather</see>.
         /// </summary>
-        private static readonly string token = Environment.GetEnvironmentVariable("TG_TOKEN") ?? "token must here";
+        private static readonly string token = Environment.GetEnvironmentVariable("TG_TOKEN") ?? "token must be here";
 
         /// <summary>
         /// Read-only parameter.
